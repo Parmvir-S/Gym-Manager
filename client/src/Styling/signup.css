@@ -1,0 +1,27 @@
+.signup {
+    margin-top: 2%;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  input {
+    text-align: center;
+  }
+
+  .img {
+    width: 125px;
+    margin: auto auto;
+    border-radius: 50%;
+    margin-top: 5%;
+  }
+  
+  .legendaryFDs {
+    display: flex;
+
+  }
+
+  #pc {
+    width: 120%;
+  }

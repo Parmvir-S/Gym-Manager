@@ -1,0 +1,42 @@
+.home {
+    display: flex;
+    flex-direction: column;
+}
+
+.signupLoginButtons {
+    display: flex;
+    justify-content: center;
+    gap: 2em;
+    margin-left: 12em;
+}
+
+.topArea {
+    display: flex;
+    justify-content: center;
+}
+
+
+.circlePhotos {
+    margin-top: 2%;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+@media (min-width: 320px) and (max-width: 480px) {
+    .signupLoginButtons {
+        width: 50%;
+        flex-direction: row;
+        margin: auto auto;
+    }
+
+    .circlePhotos {
+        flex-direction: column;
+        align-items: center;
+    }
+    .topArea {
+        display: flex;
+        flex-direction: column;
+        margin-bottom: 0.5em;
+    }
+}
