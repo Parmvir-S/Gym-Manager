@@ -6,7 +6,3 @@ This project was built using React, Node, Express and MySQL
 
 # Created By:
 Miles, Olivia and Parmvir
-
-
-
-# Gym-Manager
