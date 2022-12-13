@@ -1,5 +1,5 @@
 # Gym Manager
-![facebook_cover_photo_1](https://user-images.githubusercontent.com/70659748/207230259-96c638c0-4b47-4997-8293-ce39acc9135d.png)
+![linkedin_banner_image_1](https://user-images.githubusercontent.com/70659748/207230359-cdc1552d-2d5b-458b-92d1-3d03c1883be0.png)
 This is a gym management application that helps gym owners, staff, trainers, managers and customers. It allows gym owners to add locations, add machines to those locations, update location revenues, view employees that work at those locations and fire them if they are spending too much on salaries. It allows customers to select their preferred gym location, upgrade their membership plan, view all the trainers they have access to and find available fitness class times.
 
 ## Motivation
