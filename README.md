@@ -16,6 +16,8 @@ Furthermore, this project came with the difficulties that typically arise in gro
 ## Accomplishments
 With a condensed summer course timeline, my group members and I were able to evenly split the work and produce a nice polished final product. We went above and beyond the requirements and implemented a fully functional user authentication system. Furthermore, we included cool features like auto-generated user icons based on usernames using an external API called dicebear.
 
+We were also able to implement the following types of queries in this project: INSERT, DELETE, UPDATE, JOIN WITH WHERE CLAUSE, PROJECTION, SELECTION, AGGREGATION WITH GROUP BY, AGGREGATION WITH HAVING, NESTED AGGREGATION WITH GROUP BY, and DIVISION.
+
 ## Future Improvements
 In the future, some of the queries can be cleaned up and refactored. We can also store the user passwords in an encrypted format instead of plain strings. Storing an encrypted password rather than a plain text string is a simple way to increase the security of an authentication system. Encrypting a password means that it is transformed into a scrambled, unreadable form that cannot be easily accessed by unauthorized users. This makes it much more difficult for someone to gain access to the password, even if they are able to access the database where it is stored. As a result, using encrypted passwords can help to protect user accounts and prevent unauthorized access to sensitive information.
 
